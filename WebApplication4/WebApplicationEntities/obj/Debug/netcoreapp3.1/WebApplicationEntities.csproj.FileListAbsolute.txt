@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\bin\Debug\netcoreapp3.1\WebApplicationEntities.deps.json
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\bin\Debug\netcoreapp3.1\WebApplicationEntities.dll
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\bin\Debug\netcoreapp3.1\WebApplicationEntities.pdb
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.AssemblyInfo.cs
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.dll
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.pdb
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\bin\Debug\netcoreapp3.1\WebApplicationEntities.runtimeconfig.json
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\bin\Debug\netcoreapp3.1\WebApplicationEntities.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WebApplication4\WebApplicationEntities\obj\Debug\netcoreapp3.1\WebApplicationEntities.genruntimeconfig.cache

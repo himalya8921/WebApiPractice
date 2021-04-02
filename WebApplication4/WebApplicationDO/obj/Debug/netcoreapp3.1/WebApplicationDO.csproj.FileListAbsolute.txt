@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\bin\Debug\netcoreapp3.1\WebApplicationDO.deps.json
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\bin\Debug\netcoreapp3.1\WebApplicationDO.dll
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\bin\Debug\netcoreapp3.1\WebApplicationDO.pdb
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\bin\Debug\netcoreapp3.1\WebApplicationEntities.dll
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\bin\Debug\netcoreapp3.1\WebApplicationEntities.pdb
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.AssemblyInfo.cs
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.csproj.CopyComplete
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.dll
+C:\Users\HP\source\repos\WebApplication4\WebApplicationDO\obj\Debug\netcoreapp3.1\WebApplicationDO.pdb
